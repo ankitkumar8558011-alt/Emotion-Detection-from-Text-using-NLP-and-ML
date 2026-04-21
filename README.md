@@ -98,7 +98,6 @@ Used two techniques:
 ## ⚙️ How to Run
 
 git clone https://github.com/ankitkumar8558011-alt/Emotion-Detection-from-Text-using-NLP-and-ML.git
-cd emotion-detection
 
 python -m venv venv
 venv\Scripts\activate   # Windows
